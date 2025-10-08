@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:02/10/2025
+## Date:08/10/2025
 
 ## AIM:
  To design a website to calculate the Body Mass Index (BMI) in the server side.
@@ -138,7 +138,8 @@ urlpatterns=[
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<server side.png>)
+<img width="1251" height="608" alt="Screenshot 2025-10-08 215548" src="https://github.com/user-attachments/assets/e89a61ff-b97f-4868-b2a9-3ae3e7848696" />
+
 
 ## HOMEPAGE:
 ![alt text](bmi.png)
