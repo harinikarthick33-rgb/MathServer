@@ -141,8 +141,7 @@ urlpatterns=[
 <img width="1251" height="608" alt="Screenshot 2025-10-08 215548" src="https://github.com/user-attachments/assets/e89a61ff-b97f-4868-b2a9-3ae3e7848696" />
 
 
-## HOMEPAGE:
-![alt text](bmi.png)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
